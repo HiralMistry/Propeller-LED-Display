@@ -5,8 +5,8 @@ LED Display Model which is driven with the help of propeller.
 •	For this model, total 17 characters are displayed at a time. (through one complete revolution of motor)
 •	AC Series motor is used as a propeller to rotate the LEDs. The speed of motor decides the ON/OFF switching rate of LEDs. That can be calculated by calculating the time of one rotation. (Program execution delay is also taken into the consideration.) 
 •	Integrated with Bluetooth to change the display in real-time.
-•	The model should be properly mounted with a strong base to avoid vibration generated due to centrifugal force of the model.
-•	The PCB was equally weighed on both sides to the shaft to make the vibration to a minimum.
+•	The model should be properly mounted with a strong base to avoid vibrations generated due to centrifugal force.
+•	The PCB was equally weighed on both sides of the shaft to make the vibrations to a minimum.
 
 Project Youtube Links:
 •	Displaying- ‘HARSHIL’
